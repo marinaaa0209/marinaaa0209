@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @marinaaa0209
-- 👀 I’m interested in IT, Cyber Security and animes ;)
-- 🌱 I’m currently learning Computer Engineering
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 Interested in IT, Cyber Security and anime ;)
+- 🌱 Currently studying Computer Science (focus: IT-Security)
+
 
 <!---
 marinaaa0209/marinaaa0209 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
